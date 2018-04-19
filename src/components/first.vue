@@ -4,6 +4,7 @@
         <search></search>
         <swipe></swipe>
         <navbar></navbar>
+        <div>1234</div>
         </div>
 </template>
 
